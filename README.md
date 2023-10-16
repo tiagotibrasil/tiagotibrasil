@@ -1,19 +1,7 @@
 ### Hi there 👋
 
-<!--
-**tiagotibrasil/tiagotibrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  Sou o Tiago Costa
 
  Apaixonado por tecnologias , Ciência e Análise de Dados.
@@ -24,17 +12,23 @@ Here are some ideas to get you started:
  Possuo conhecimento em Python, postgree sql, R Studio, excel, automação de tarefas.
 
  Voce tambem me encontra em 
- https://www.linkedin.com/in/tiagoangra/
  
- tiagocosta.ti.brasil@gmail.com
+ <a href="tiagocosta.ti.brasil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/tiagoangra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
  Abaixo você pode visualizar meus projetos na área de dados clicando em cada um deles:
 
- 1 Projeto automatizar cadastro site
 
- 2 Projeto data sciense
+<a href="">1 Projeto automatizar cadastro site</a>&nbsp;&nbsp;
 
- 3 Projeto dara sciense
+<a href="">2 Projeto data sciense</a>&nbsp;&nbsp;
+
+<a href="">3 Projeto dara sciense</a>&nbsp;&nbsp;
+
+<a href="">4 projeto chat</a>&nbsp;&nbsp;
+
+<a href="">5 extrair informação de site</a>&nbsp;&nbsp; 
    
- 4 projeto chat
+ 
 
- 5 extrair informação de site
+ 
